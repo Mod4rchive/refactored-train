@@ -1,4 +1,5 @@
-./gradlew spring-boot:run
+./gradlew bootRun
+gradle bootRun
 
 # Getting Started
 
