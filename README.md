@@ -1,3 +1,5 @@
+./gradlew spring-boot:run
+
 # Getting Started
 
 ### Reference Documentation
