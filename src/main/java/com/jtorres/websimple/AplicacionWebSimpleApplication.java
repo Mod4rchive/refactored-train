@@ -15,7 +15,7 @@ public class AplicacionWebSimpleApplication {
 
 	@GetMapping("/")
 	public String entrance() {
-		return String.format("Aplicación web muy simple");
+		return String.format("Buenas tardes chile");
 	}
 
 }
